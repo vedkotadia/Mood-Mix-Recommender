@@ -28,3 +28,7 @@ npm i
 npm run dev
 ```
 
+
+## Project Report
+[View PDF](https://github.com/vedkotadia/Mood-Mix-Recommender/blob/main/Mood%20Mix%20Recommender%20-%20Project%20Report.pdf)
+
