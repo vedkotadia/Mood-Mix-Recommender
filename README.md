@@ -3,6 +3,8 @@ The Mood Mix Recommender is an AI-powered recommendation system designed to sugg
 
 
 ![Alt Text](mood-mix-recommender-main\Screenshot 2025-04-02 232405.png)
+![Alt Text](Screenshot 2025-04-02 232405.png)
+
 ![Alt Text](mood-mix-recommender-main\Screenshot 2025-04-02 234930.png)
 
 ## Project info
