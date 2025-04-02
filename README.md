@@ -2,10 +2,9 @@
 The Mood Mix Recommender is an AI-powered recommendation system designed to suggest music, movies, and YouTube videos based on a user's mood, past history, and a few personalized questions. The system utilizes collaborative filtering, content-based filtering, and machine learning techniques to deliver highly relevant recommendations.
 
 
-![Alt Text](mood-mix-recommender-main\Screenshot 2025-04-02 232405.png)
 ![Alt Text](Screenshot 2025-04-02 232405.png)
+![Alt Text](https://github.com/vedkotadia/Mood-Mix-Recommender/blob/main/Screenshot%202025-04-02%20234930.png?raw=true)
 
-![Alt Text](mood-mix-recommender-main\Screenshot 2025-04-02 234930.png)
 
 ## Project info
 
